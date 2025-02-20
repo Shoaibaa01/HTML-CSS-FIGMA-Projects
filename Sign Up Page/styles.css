@@ -155,7 +155,7 @@ text-align: center;
      .greetings p {
          margin-top: -40px;
          text-align: center;
-         font-size: 18px;
+         font-size: 20px;
          
      }
 
@@ -191,7 +191,7 @@ text-align: center;
         }
 
         .or {
-            margin-left: -25px;
+            margin-left: -30px;
             margin-bottom: 30px;
          }
 
@@ -208,7 +208,7 @@ text-align: center;
             cursor: pointer;
             justify-content: center;
             margin-bottom: 30px;
-            margin-left: 100px;
+            margin-left: 80px;
            
             
           
