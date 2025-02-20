@@ -16,14 +16,10 @@
 - Coding this design into actual **HTML & CSS** was harder than expected, but I made it!  
 
 ---  
-# Project Limitations & Future Improvements
+# Project Limitations
 
 **No Responsive Design:** Turns out, making a website work on different screens isn’t as easy as resizing an image.
 
---- 
 
-## What's Next?  
-
-This is just the beginning! Next time, my designs will be even **better**, more **refined**, and definitely **more challenging**. Excited for what's ahead! 🎨💻  
 
 
