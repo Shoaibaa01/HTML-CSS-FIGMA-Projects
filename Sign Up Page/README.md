@@ -7,13 +7,7 @@
 
 
 
-# Introduction  
-
-Hello! My name is **Shoaib Abdullaleem**, and I'm on a mission to become a **web developer & designer**, with a special focus on **front-end development**. This **Signup Page** is my very first project using **HTML & CSS**, designed in **Figma** with inspiration from various sources.  
-
-At first, I **procrastinated** (because let's be honest, self-doubt is real), but I pushed through, and here it is! 🚀  
-
----  
+ 
 
 ## Challenges & Learning Experience  
 
