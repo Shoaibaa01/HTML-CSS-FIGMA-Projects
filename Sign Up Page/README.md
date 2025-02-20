@@ -18,7 +18,7 @@
 ---  
 # Project Limitations & Future Improvements
 
-- **No Responsive Design:** Turns out, making a website work on different screens isn’t as easy as resizing an image. Future me, take notes.
+- **No Responsive Design:** Turns out, making a website work on different screens isn’t as easy as resizing an image.
 - **Areas to Improve:**
   - Actually understanding **Figma** instead of winging it.
   - Cracking the enigma that is **CSS spacing and layouts**.
