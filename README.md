@@ -2,7 +2,7 @@
 
 Hey, I’m **Shoaib Abdul Aleem**, and this repository is where I’m learning and experimenting with **HTML, CSS, and Figma**. No JavaScript, no fancy frameworks—just the basics, done well (hopefully).  
 
-I’m starting from scratch, building **10 to 20 projects** to get comfortable with web design and styling. It’s my way of practicing, improving, and figuring things out as I go. Once I’ve got a solid grasp, I’ll move on to **JavaScript** and start adding interactivity.  
+I’m starting from scratch, building **5 to 10 projects** to get comfortable with web dev and styling. It’s my way of practicing, improving, and figuring things out as I go. Once I’ve got a solid grasp, I’ll move on to **JavaScript** and start adding interactivity.  
 
 For now, it’s just HTML, CSS, and a lot of trial and error. Let’s see how this goes. 🚀  
 
