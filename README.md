@@ -10,7 +10,4 @@ For now, it’s just HTML, CSS, and a lot of trial and error. Let’s see how th
 
 ### **Final Showcases** ✨  
 Here are my completed projects so far:  
-
-<a href="https://github.com/Shoaibaa01/HTML-CSS-FIGMA-Projects/tree/main/Sign%20Up%20Page">
-  <img src="https://github.com/Shoaibaa01/HTML-CSS-FIGMA-Projects/raw/main/Sign%20Up%20Page/Completed%20Project/Screenshot%20(3).png?raw=true" width="400">
-</a>
+-
