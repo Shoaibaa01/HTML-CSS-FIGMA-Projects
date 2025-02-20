@@ -118,7 +118,7 @@ text-align: center;
 @media (max-width: 915px) {
     body {
         font-family: "Ruluko", serif; /* Font Family */
-        transform: scale(0.8);
+        transform: scale(1.2);
         transform-origin: top;
      
     }
@@ -147,16 +147,16 @@ text-align: center;
      }
      
      .greetings h1 {
-         font-size: 20px;
+         font-size: 40px;
          margin-top: 400px;
          margin-bottom: 50px;
-         text-align: center;
+         margin-left: 60px;
         
      }
      
      .greetings p {
          margin-top: -40px;
-         text-align: center;
+         margin-right: 60px;
          font-size: 20px;
          
      }
@@ -164,15 +164,14 @@ text-align: center;
      input[type="text"], input[type="email"], input[type="password"] {
         height: 46.82px;
         width: 300px ;
-        background-color: 
-        #D9D9D9;
+        background-color: #D9D9D9;
         border: solid 1px white;
-       margin-left: 80px;
+       margin-left: 50px;
         }
 
         .input-name p {
             margin-bottom: -25px;
-            margin-left: 20%;
+            margin-left: 12%;
             
         
         }
@@ -183,7 +182,7 @@ text-align: center;
             border-radius: 50px;
             background-color: black;
             color: white;
-            margin-left: 160px;
+            margin-left: 140px;
             margin-top: 20px;
             cursor: pointer;
             font-family: "Ruluko", serif;
@@ -193,7 +192,7 @@ text-align: center;
         }
 
         .or {
-            margin-left: 5px;
+            margin-left: -50px;
             margin-bottom: 30px;
          }
 
@@ -210,7 +209,7 @@ text-align: center;
             cursor: pointer;
             justify-content: center;
             margin-bottom: 30px;
-            margin-left: 100px;
+            margin-left: 70px;
            
             
           
@@ -234,8 +233,8 @@ text-align: center;
 
 
 .crafted p {
-    font-size: 20px;
-    text-align: center;
+    font-size: 15px;
+   margin-right: 60px;
     padding-bottom: 100px;
    
     }
