@@ -1,6 +1,6 @@
 # HTML, CSS & Figma Projects 🎨💻  
 
-Hey, I’m **Shoaib Abdul Aleem**, and this repository is where I’m learning and experimenting with **HTML, CSS, and Figma**. No JavaScript, no fancy frameworks—just the basics, done well (hopefully).  
+Hey, I’m **Shoaib Abdul Aleem**, and this repository is where I’m learning and experimenting with **HTML, CSS, and Figma**. No JavaScript, no fancy frameworks—just the basics.  
 
 I’m starting from scratch, building **5 to 10 projects** to get comfortable with web dev and styling. It’s my way of practicing, improving, and figuring things out as I go. Once I’ve got a solid grasp, I’ll move on to **JavaScript** and start adding interactivity.  
 
