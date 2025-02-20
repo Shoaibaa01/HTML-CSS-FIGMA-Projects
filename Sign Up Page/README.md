@@ -11,7 +11,7 @@
 
 ## Challenges & Learning Experience  
 
-- **Margins, padding, and spacing** gave me a tough time. It felt like an unsolvable puzzle, but after lots of trial and error, I started getting the hang of it.  
+- **Margins, padding, and spacing** gave me a tough time, But after lots of trial and error, I started getting the hang of it.  
 - I had some experience with **Figma**, but I know I can do better. My future designs will be more **minimal, clean, and aesthetic**.  
 - Coding this design into actual **HTML & CSS** was harder than expected, but I made it!  
 
