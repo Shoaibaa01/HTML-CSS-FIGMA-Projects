@@ -2,6 +2,7 @@
 
 ![Project Preview](https://github.com/Shoaibaa01/HTML-CSS-FIGMA-Projects/blob/main/Sign%20Up%20Page/Completed%20Project/Screenshot%20(3).png?raw=true)
 
+**Live Preview:** [Click Here](https://shoaibaa01.github.io/HTML-CSS-FIGMA-Projects/Sign%20Up%20Page/)  
 ---
 
 # Introduction
