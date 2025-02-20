@@ -224,7 +224,12 @@ text-align: center;
 .app-signup p {
     color: black;
     margin-right: 100px;
+    margin-top: 18px;
+    font-size: 13px;
+    
 }
+
+
 
 .crafted p {
     font-size: 20px;
